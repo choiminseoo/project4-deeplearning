@@ -1,4 +1,4 @@
-# project-deeplearning
+# project4-deeplearning
 
 # 프로젝트 일정
 - 전체 일정 : 24.07.11(목) ~ 24.07. (3주간)
